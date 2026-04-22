@@ -1,7 +1,7 @@
-# pythonproject
+# python project
 Python lab Assignment for BCA
 
 # Student detail
-/nName : Ayush sahu 
-/nCourse : Bca
+Name : Ayush sahu 
+Course : Bca
 Semester : 4
