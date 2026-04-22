@@ -2,6 +2,6 @@
 Python lab Assignment for BCA
 
 # Student detail
-Name : Ayush sahu 
-Course : Bca
+/nName : Ayush sahu 
+/nCourse : Bca
 Semester : 4
