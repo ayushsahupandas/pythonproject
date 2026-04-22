@@ -1,0 +1,19 @@
+# Q7: Iterating through string, list and dictionary
+
+# String
+text = "Python"
+print("String iteration:")
+for char in text:
+    print(char)
+
+# List
+numbers = [10, 20, 30, 40]
+print("List iteration:")
+for num in numbers:
+    print(num)
+
+# Dictionary
+student = {"name": "Ayush", "age": 19, "course": "BCA"}
+print("Dictionary iteration:")
+for key, value in student.items():
+    print(key, ":", value)
