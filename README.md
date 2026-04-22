@@ -1,7 +1,4 @@
 # python project
-Python lab Assignment for BCA
+Python lab Assignment for end sem examination 
 
-# Student detail
-Name : Ayush sahu 
-Course : Bca
-Semester : 4
+
